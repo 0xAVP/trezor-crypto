@@ -7,3 +7,7 @@ tests/libtrezor-crypto.so
 tests/test_check
 tests/test_openssl
 tests/test_speed
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
